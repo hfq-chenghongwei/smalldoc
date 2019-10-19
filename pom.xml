@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.liuhuagui</groupId>
+    <groupId>com.github.hfq-chenghongwei</groupId>
     <artifactId>smalldoc</artifactId>
     <version>2.3</version>
     <packaging>pom</packaging>
@@ -14,7 +14,7 @@
         <module>smalldoc-spring-boot-starter</module>
     </modules>
 
-    <url>https://github.com/liuhuagui/smalldoc</url>
+    <url>https://github.com/hfq-chenghongwei/smalldoc</url>
     <name>smalldoc</name>
     <description>Zero-intrusion Java Restful API documentation tool based on code comments.</description>
 
@@ -35,14 +35,14 @@
                 <role>Founder</role>
                 <role>Committer</role>
             </roles>
-            <url>https://github.com/liuhuagui</url>
+            <url>https://github.com/hfq-chenghongwei</url>
         </developer>
     </developers>
 
     <scm>
-        <url>https://github.com/liuhuagui/smalldoc</url>
-        <connection>scm:git:git@github.com:liuhuagui/smalldoc.git</connection>
-        <developerConnection>scm:git:git@github.com:liuhuagui/smalldoc.git</developerConnection>
+        <url>https://github.com/hfq-chenghongwei/smalldoc</url>
+        <connection>scm:git:git@github.com:hfq-chenghongwei/smalldoc.git</connection>
+        <developerConnection>scm:git:git@github.com:hfq-chenghongwei/smalldoc.git</developerConnection>
     </scm>
 
     <properties>
